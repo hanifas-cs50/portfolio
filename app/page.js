@@ -6,7 +6,7 @@ export default function Home() {
       <div className="max-w-screen-xl m-auto p-8 lg:px-16 flex flex-col lg:flex-row items-center justify-between">
         <Image
           className="rounded-xl"
-          src="/2-ELzxldtU6kACf.png"
+          src="./2-ELzxldtU6kACf.png"
           width={500}
           height={500}
           quality={80}

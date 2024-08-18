@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: "/profile_page"
+  basePath: "/portfolio"
 };
 
 export default nextConfig;

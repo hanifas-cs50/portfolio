@@ -10,7 +10,7 @@ const Projects = () => {
           <a href="#" className="group rounded-xl overflow-hidden font-medium bg-gray-800/20 hover:bg-gray-800/50">
             <Image
               className="w-full"
-              src="/2-ELzxldtU6kACf.png"
+              src="./2-ELzxldtU6kACf.png"
               width={400}
               height={400}
               quality={50}
@@ -29,7 +29,7 @@ const Projects = () => {
           <a href="#" className="group rounded-xl overflow-hidden font-medium bg-gray-800/20 hover:bg-gray-800/50">
             <Image
               className="w-full"
-              src="/2-ELzxldtU6kACf.png"
+              src="./2-ELzxldtU6kACf.png"
               width={400}
               height={400}
               quality={50}
@@ -48,7 +48,7 @@ const Projects = () => {
           <a href="#" className="group rounded-xl overflow-hidden font-medium bg-gray-800/20 hover:bg-gray-800/50">
             <Image
               className="w-full"
-              src="/2-ELzxldtU6kACf.png"
+              src="./2-ELzxldtU6kACf.png"
               width={400}
               height={400}
               quality={50}
@@ -67,7 +67,7 @@ const Projects = () => {
           <a href="#" className="group rounded-xl overflow-hidden font-medium bg-gray-800/20 hover:bg-gray-800/50">
             <Image
               className="w-full"
-              src="/2-ELzxldtU6kACf.png"
+              src="./2-ELzxldtU6kACf.png"
               width={400}
               height={400}
               quality={50}
@@ -86,7 +86,7 @@ const Projects = () => {
           <a href="#" className="group rounded-xl overflow-hidden font-medium bg-gray-800/20 hover:bg-gray-800/50">
             <Image
               className="w-full"
-              src="/2-ELzxldtU6kACf.png"
+              src="./2-ELzxldtU6kACf.png"
               width={400}
               height={400}
               quality={50}
@@ -105,7 +105,7 @@ const Projects = () => {
           <a href="#" className="group rounded-xl overflow-hidden font-medium bg-gray-800/20 hover:bg-gray-800/50">
             <Image
               className="w-full"
-              src="/2-ELzxldtU6kACf.png"
+              src="./2-ELzxldtU6kACf.png"
               width={400}
               height={400}
               quality={50}
@@ -124,7 +124,7 @@ const Projects = () => {
           <a href="#" className="group rounded-xl overflow-hidden font-medium bg-gray-800/20 hover:bg-gray-800/50">
             <Image
               className="w-full"
-              src="/2-ELzxldtU6kACf.png"
+              src="./2-ELzxldtU6kACf.png"
               width={400}
               height={400}
               quality={50}
@@ -143,7 +143,7 @@ const Projects = () => {
           <a href="#" className="group rounded-xl overflow-hidden font-medium bg-gray-800/20 hover:bg-gray-800/50">
             <Image
               className="w-full"
-              src="/2-ELzxldtU6kACf.png"
+              src="./2-ELzxldtU6kACf.png"
               width={400}
               height={400}
               quality={50}

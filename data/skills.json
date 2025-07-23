@@ -1,0 +1,12 @@
+{
+  "Languages": ["JavaScript", "TypeScript", "Python", "Java", "C++", "C", "PHP"],
+  "Frameworks": ["React", "Next.js", "Svelte.js", "Node.js", "Express", "Flask", "Laravel"],
+  "Databases": ["SQLite", "MongoDB", "MySQL"],
+  "Soft Skills": [
+    "Problem Solving",
+    "Team Collaboration",
+    "Communication",
+    "Adaptability",
+    "Time Management"
+  ]
+}

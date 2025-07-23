@@ -16,7 +16,7 @@ const Background = () => {
       </h3>
       <p className="mb-4 text-justify">
         <span className="block mb-2">
-          I'm a computer science student at
+          I&apos;m a computer science student at
           <span className="font-medium text-yellow-400/90">
             {" "}
             Universitas Muhammadiyah Sidoarjo{" "}
@@ -28,12 +28,12 @@ const Background = () => {
           </span>
           and
           <span className="font-medium text-yellow-400/90"> data analysis</span>
-          . I build clean, modular architectures—whether it’s APIs,
+          . I build clean, modular architectures—whether it&apos;s APIs,
           microservices, or data dashboards—that solve real problems.
         </span>
 
         <span className="block">
-          Beyond code, I’ve contributed to community tech outreach and hands-on
+          Beyond code, I&apos;ve contributed to community tech outreach and hands-on
           training projects, always aiming to apply tech meaningfully.
         </span>
       </p>

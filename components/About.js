@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 
-const Background = () => {
+const About = () => {
   return (
     <motion.section
       initial={{ opacity: 0, y: 30 }}
@@ -11,8 +11,8 @@ const Background = () => {
       transition={{ duration: 0.6, delay: 0.1 }}
       className="max-w-screen-lg w-full mx-auto px-8 py-20 grid grid-cols-1 md:grid-cols-[175px_1fr]"
     >
-      <h3 className="h-min mb-4 px-4 font-medium uppercase text-lg text-white border-l-4 border-yellow-400">
-        Background
+      <h3 className="h-min mb-6 px-4 font-medium uppercase text-lg text-white border-l-4 border-yellow-400">
+        About Me
       </h3>
       <p className="mb-4 text-justify">
         <span className="block mb-2">
@@ -41,4 +41,4 @@ const Background = () => {
   );
 };
 
-export default Background;
+export default About;

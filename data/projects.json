@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "title": "React Native Todo App",
+      "Description": "Description for this app",
+      "Technologies": ["React Native", "SQLite"]
+    },
+    {
+      "title": "React Native Todo App",
+      "Description": "Description for this app",
+      "Technologies": ["React Native", "SQLite"]
+    },
+    {
+      "title": "React Native Todo App",
+      "Description": "Description for this app",
+      "Technologies": ["React Native", "SQLite"]
+    }
+  ]
+}

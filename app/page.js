@@ -1,5 +1,5 @@
 import Introduction from "@/components/Introduction";
-import Background from "@/components/Background";
+import About from "@/components/About";
 import Skills from "@/components/Skills";
 import Projects from "@/components/Projects";
 import Footer from "@/components/Footer";
@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <Introduction />
-      <Background />
+      <About />
       <Skills />
       <Projects />
       <Footer />

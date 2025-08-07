@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { motion } from "framer-motion";
 import { Mail, Github, Linkedin } from "lucide-react";
@@ -17,14 +17,14 @@ const Introduction = () => {
         Backend Developer | Data Analyst | System Architect in Training
       </h3>
       <p className="max-w-screen-md mb-4 text-justify text-lg">
-        <span className="block mb-2">
+        <span className="block">
           I build reliable backend systems and uncover insights from data to
           drive real impact.
         </span>
         <span className="block mb-2">
           From microservices to information systems, I turn ideas into
-          production-ready tools. Let&apos;s connect and build something purposeful
-          together!
+          production-ready tools. Let&apos;s connect and build something
+          purposeful together!
         </span>
       </p>
       <div className="flex gap-3">
